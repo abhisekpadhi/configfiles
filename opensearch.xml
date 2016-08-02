@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/">
-	<ShortName>Grozip</ShortName>
-	<Description>Search Grozip</Description>
-	<Url type="text/html" method="get" template="https://grozip.com/search/keyword/{searchTerms}/search-in/product/cat-in/all/search-other/product,p_cat,p_tag"/>
-	<Developer>Grozip</Developer>
+	<ShortName>MyWebSiteName</ShortName>
+	<Description>Search MyWebsiteName</Description>
+	<Url type="text/html" method="get" template="http://MyWebsiteName.com/s={searchTerms}"/>
+	<Developer>MyWebSiteName</Developer>
 </OpenSearchDescription>
 
